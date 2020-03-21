@@ -23,6 +23,7 @@ Objetivo 1A: viseras para personal medico, en el canal slack es la sala  #mascar
 * En Barranquilla telegram: https://t.me/joinchat/O8T-xRsAQa67w1kR93tiug
 * En Antioquia telegram: https://t.me/joinchat/MBO38UnRWy8YsG-bhKu9fA
 * En Bogotá telegram: https://t.me/VoluntariosCovid19Bogota
+* En Boyacá slack [#makers_boyaca-covid19](https://makerscocv19.slack.com/archives/C01040SPJTC)
 * Foro de información: https://foro.coronavirusmakers.org/
 
 **Quiero aportar con impresoras 3D, máquina de coser, cortador láser, electrónica, equipos de metal mecánica, modelado 3D:** 
